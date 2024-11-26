@@ -23,7 +23,7 @@ Lista todos os registros ou apenas receitas/despesas, com cálculo de totais (lu
 	•	Ordenação de Registros:
 Ordena registros de forma personalizada:
 	•	Por nome, ignorando diferenças entre maiúsculas e minúsculas.
-	•	Por valor, do maior para o menor.
+	•	Por valor, do maior para o menor(ou vice-versa).
 	•	Por data, da mais antiga para a mais recente (ou vice-versa).
 	•	Exibição Gráfica:
 Gera um gráfico de barras horizontais no terminal para visualizar o total de receitas e despesas.
@@ -56,12 +56,19 @@ Menu Inicial:
 ============================================
        💰 SISTEMA DE GESTÃO FINANCEIRA 💰
 ============================================
+
 1️⃣  Cadastrar um novo registro
+
 2️⃣  Alterar um registro existente
+
 3️⃣  Remover um registro
+
 4️⃣  Listar registros (Receitas/Despesas)
+
 5️⃣  Buscar um registro por nome
+
 6️⃣  Ordenar registros (Nome/Valor/Data)
+
 7️⃣  Sair do sistema
 Escolha uma opção:
 
