@@ -5,28 +5,38 @@ Gerenciador de Fluxo de Caixa em Java
 Descrição
 
 Este projeto é um sistema de gerenciamento financeiro desenvolvido em Java, com foco na aplicação de conceitos de Programação Orientada a Objetos (POO). Ele permite cadastrar, alterar, remover e organizar registros financeiros, como Receitas e Despesas, e oferece funcionalidades como:
-	•	Listagem detalhada de registros filtrados por tipo (Receitas, Despesas ou ambos).
-	•	Ordenação de registros por nome, valor ou data.
-	•	Exibição de um gráfico de barras horizontais para visualizar o fluxo financeiro.
-	•	Validações robustas para evitar entradas inválidas, garantindo a integridade dos dados.
+	
+ •	Listagem detalhada de registros filtrados por tipo (Receitas, Despesas ou ambos).
+	
+ •	Ordenação de registros por nome, valor ou data.
+	
+ •	Exibição de um gráfico de barras horizontais para visualizar o fluxo financeiro.
+	
+ •	Validações robustas para evitar entradas inválidas, garantindo a integridade dos dados.
 
 O projeto também explora conceitos fundamentais de POO, como herança, composição, polimorfismo e encapsulamento, aplicados de forma prática.
 
 Funcionalidades
 
-	•	Cadastro de Registros:
+	
+ •	Cadastro de Registros:
 Permite adicionar novos registros, verificando a validade do tipo (Receita ou Despesa), data, valor e status.
-	•	Alteração de Registros:
+	
+ •	Alteração de Registros:
 Modifica registros existentes com base no nome, incluindo validação de entradas.
-	•	Listagem de Registros:
+	
+ •	Listagem de Registros:
 Lista todos os registros ou apenas receitas/despesas, com cálculo de totais (lucro líquido, soma de receitas e despesas).
-	•	Ordenação de Registros:
+	
+ •	Ordenação de Registros:
 Ordena registros de forma personalizada:
-	•	Por nome, ignorando diferenças entre maiúsculas e minúsculas.
-	•	Por valor, do maior para o menor(ou vice-versa).
-	•	Por data, da mais antiga para a mais recente (ou vice-versa).
-	•	Exibição Gráfica:
-Gera um gráfico de barras horizontais no terminal para visualizar o total de receitas e despesas.
+	
+ •	Por nome, ignorando diferenças entre maiúsculas e minúsculas.
+	
+ •	Por valor, do maior para o menor(ou vice-versa).
+	
+ •	Por data, da mais antiga para a mais recente (ou vice-versa).
+
 
 Conceitos Aplicados
 
