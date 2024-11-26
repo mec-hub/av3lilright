@@ -1,8 +1,4 @@
-Título do Repositório
-
-Gerenciador de Fluxo de Caixa em Java
-
-Descrição
+Gerenciador Financeiro de Fluxo de Caixa em Java
 
 Este projeto é um sistema de gerenciamento financeiro desenvolvido em Java, com foco na aplicação de conceitos de Programação Orientada a Objetos (POO). Ele permite cadastrar, alterar, remover e organizar registros financeiros, como Receitas e Despesas, e oferece funcionalidades como:
 	
@@ -62,7 +58,9 @@ Exemplo de Execução
 Menu Inicial:
 
 ============================================
+
        💰 SISTEMA DE GESTÃO FINANCEIRA 💰
+       
 ============================================
 
 1️⃣  Cadastrar um novo registro
