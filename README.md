@@ -30,12 +30,9 @@ Lista todos os registros ou apenas receitas/despesas, com cálculo de totais (lu
 	
  •	Ordenação de Registros:
 Ordena registros de forma personalizada:
-	
- •	Por nome, ignorando diferenças entre maiúsculas e minúsculas.
-	
- •	Por valor, do maior para o menor(ou vice-versa).
-	
- •	Por data, da mais antiga para a mais recente (ou vice-versa).
+	•	Por nome, ignorando diferenças entre maiúsculas e minúsculas.
+	•	Por valor, do maior para o menor(ou vice-versa).
+	•	Por data, da mais antiga para a mais recente (ou vice-versa).
 
 
 Conceitos Aplicados
